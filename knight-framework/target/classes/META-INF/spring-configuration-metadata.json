@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource.druid.master",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.wujie.framework.config.DruidConfig",
+      "sourceMethod": "masterDataSource(com.wujie.framework.config.properties.DruidProperties)"
+    },
+    {
+      "name": "spring.datasource.druid.slave",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.wujie.framework.config.DruidConfig",
+      "sourceMethod": "slaveDataSource(com.wujie.framework.config.properties.DruidProperties)"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

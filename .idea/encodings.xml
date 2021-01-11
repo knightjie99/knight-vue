@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/knight-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/knight-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/knight-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/knight-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/knight-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/knight-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/knight-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/knight-quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/knight-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/knight-system/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "wujie",
+      "type": "com.wujie.common.config.CommonConfig",
+      "sourceType": "com.wujie.common.config.CommonConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "wujie.copyright-year",
+      "type": "java.lang.String",
+      "description": "版权年份",
+      "sourceType": "com.wujie.common.config.CommonConfig"
+    },
+    {
+      "name": "wujie.demo-enabled",
+      "type": "java.lang.Boolean",
+      "description": "实例演示开关",
+      "sourceType": "com.wujie.common.config.CommonConfig",
+      "defaultValue": false
+    },
+    {
+      "name": "wujie.name",
+      "type": "java.lang.String",
+      "description": "项目名称",
+      "sourceType": "com.wujie.common.config.CommonConfig"
+    },
+    {
+      "name": "wujie.version",
+      "type": "java.lang.String",
+      "description": "版本",
+      "sourceType": "com.wujie.common.config.CommonConfig"
+    }
+  ],
+  "hints": []
+}
